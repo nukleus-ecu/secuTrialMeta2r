@@ -11,6 +11,8 @@ Authors@R:
              )
 Maintainer: Olga Miljukov <miljukov_o@ukw.de>
 Description: Reading, Translating into R, Parsing and making use of meta data (on study data exported) from the clinical data management system 'secuTrial'
-License:  MIT + file LICENSE
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/nukleus-ecu/secuTrialMeta2r
+BugReports: https://github.com/nukleus-ecu/secuTrialMeta2r/issues
