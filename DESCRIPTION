@@ -1,0 +1,16 @@
+Package: secuTrialMeta2r
+Type: Package
+Title: Processing secuTrial Meta Data in R
+Version: 0.1.0
+Authors@R:
+    c(person(given = "Olga",
+             family = "Miljukov",
+             role = c("cre", "aut", "cph"),
+             email = "miljukov_o@ukw.de"),
+             comment = c(ORCID = "0000-0003-4790-5918")
+             )
+Maintainer: Olga Miljukov <miljukov_o@ukw.de>
+Description: Reading, Translating into R, Parsing and making use of meta data (on study data exported) from the clinical data management system 'secuTrial'
+License:  MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
